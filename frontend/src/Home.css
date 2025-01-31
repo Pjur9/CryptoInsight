@@ -1,0 +1,31 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    color: #3498db;
+  }
+  
+  h5 {
+    color: #2ecc71;
+  }
+  
+  .linkbtn {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  
+  .linkbtn:hover {
+    background-color: #2980b9;
+  }
+  
+  i.bi-house {
+    font-size: 2em;
+    margin-right: 0.2em;
+  }
